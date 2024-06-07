@@ -1,0 +1,2 @@
+C:\Users\ADMIN\OneDrive - Phenikaa Univesity\Desktop\test\al\QLPhongTro\QLPhongTroTest\obj\Debug\QLPhongTroTest.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Phenikaa Univesity\Desktop\test\al\QLPhongTro\QLPhongTroTest\obj\Debug\QLPhongTroTest.csproj.CoreCompileInputs.cache
